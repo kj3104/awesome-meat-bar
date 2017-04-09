@@ -1,7 +1,48 @@
 ---
 meatbars:
 - name: MEAT BAR BARUMICHI 上野店
-  station: 上野駅
+  station:
+  - 上野駅
+  - 京成上野駅
+  homepage: http://www.dr-t.co.jp/barumichi/
+  tabelog: https://tabelog.com/tokyo/A1311/A131101/13200142/
+  time:
+    monday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    tuesday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    wednesday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    thursday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    friday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    saturday:
+    - open: '12:00'
+      close: '27:00'
+      last: '26:00'
+    sunday:
+    - open: '12:00'
+      close: '24:00'
+      last: '23:00'
+    holiday:
+    - open: '12:00'
+      close: '24:00'
+      last: '23:00'
+  tel: 050-5592-6604
+
+- name: WHIPHY
+  station: 日比谷駅
   homepage: http://www.dr-t.co.jp/barumichi/
   tabelog: https://tabelog.com/tokyo/A1311/A131101/13200142/
   time:
