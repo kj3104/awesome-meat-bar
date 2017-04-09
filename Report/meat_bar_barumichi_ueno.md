@@ -3,4 +3,4 @@
 
 ## Impressions with pictures  
 
-<img src="https://scontent.cdninstagram.com/t51.2885-15/e35/17663737_235476276918676_6851364386431303680_n.jpg" width="200">
+<img src="https://scontent.cdninstagram.com/t51.2885-15/e35/17663737_235476276918676_6851364386431303680_n.jpg" width="400">
