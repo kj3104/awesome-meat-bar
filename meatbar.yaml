@@ -1,0 +1,119 @@
+---
+meatbars:
+- name: MEAT BAR BARUMICHI 上野店
+  station:
+  - 上野駅
+  - 京成上野駅
+  homepage: http://www.dr-t.co.jp/barumichi/
+  tabelog: https://tabelog.com/tokyo/A1311/A131101/13200142/
+  lunchTime:
+  dinnerTime:
+    monday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    tuesday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    wednesday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    thursday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    friday:
+    - open: '17:00'
+      close: '27:00'
+      last: '26:00'
+    saturday:
+    - open: '12:00'
+      close: '27:00'
+      last: '26:00'
+    sunday:
+    - open: '12:00'
+      close: '24:00'
+      last: '23:00'
+    holiday:
+    - open: '12:00'
+      close: '24:00'
+      last: '23:00'
+  tel: 050-5592-6604
+
+- name: WHIPHY
+  station:
+  - 日比谷駅
+  - 二重橋駅
+  - 有楽町駅
+  - 東京駅
+  homepage: https://www.facebook.com/gouttedorwhiphy
+  tabelog: https://tabelog.com/tokyo/A1301/A130102/13043427
+  lunchTime:
+    monday:
+    - open: '11:30'
+      close: '14:00'
+      last: '13:30'
+    tuesday:
+    - open: '11:30'
+      close: '14:00'
+      last: '13:30'
+    wednesday:
+    - open: '11:30'
+      close: '14:00'
+      last: '13:30'
+    thursday:
+    - open: '11:30'
+      close: '14:00'
+      last: '13:30'
+    friday:
+    - open: '11:30'
+      close: '14:00'
+      last: '13:30'
+    saturday:
+    - open: '12:00'
+      close: '14:30'
+      last: '14:00'
+    sunday:
+    - open: '12:00'
+      close: '14:30'
+      last: '14:00'
+    holiday:
+    - open: '12:00'
+      close: '14:30'
+      last: '14:00'
+  dinnerTime:
+    monday:
+    - open: '17:00'
+      close: '23:00'
+      last: '22:30'
+    tuesday:
+    - open: '17:00'
+      close: '23:00'
+      last: '22:30'
+    wednesday:
+    - open: '17:00'
+      close: '23:00'
+      last: '22:30'
+    thursday:
+    - open: '17:00'
+      close: '23:00'
+      last: '22:30'
+    friday:
+    - open: '17:00'
+      close: '23:00'
+      last: '22:30'
+    saturday:
+    - open: '17:00'
+      close: '22:00'
+      last: '21:30'
+    sunday:
+    - open: '17:00'
+      close: '22:00'
+      last: '21:30'
+    holiday:
+    - open: '17:00'
+      close: '22:00'
+      last: '21:30'
+  tel: 050-5872-5858
