@@ -1,7 +1,7 @@
 ---
 meatbars:
 - name: MEAT BAR BARUMICHI 上野店
-  station:
+  stations:
   - 上野駅
   - 京成上野駅
   homepage: http://www.dr-t.co.jp/barumichi/
@@ -43,7 +43,7 @@ meatbars:
   tel: 050-5592-6604
 
 - name: WHIPHY
-  station:
+  stations:
   - 日比谷駅
   - 二重橋駅
   - 有楽町駅
